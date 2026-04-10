@@ -1,0 +1,283 @@
+.content{
+    background-color: rgba(230, 228, 228, 0.658);
+    height: 60px;
+    position: relative;
+    font-size: 35px;
+    
+   
+  
+ 
+  
+}
+
+.main{
+    display: flex;
+    justify-content:flex-end;
+    gap: 70px;
+    padding: 5px;
+    list-style-type: none;
+    position: sticky;
+    height: 60px;
+    width: 100%;
+    font-size: 38x;
+    
+   
+    
+}
+.frame{
+
+
+    display: flex;
+    justify-content: center;
+    background-color: rgba(244, 240, 240, 0.447);
+    text-decoration: none;
+    margin-top: 110px;
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    top: 70px;
+    font-size: 30px;
+}
+
+
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    background-color: rgba(249, 247, 247, 0.521);
+    padding: 15px;
+    font-size: 38px;
+    list-style-type: none;
+    top:20px;
+    width: 100%;
+    height: 140px;
+    position: sticky;
+}
+.fa-heart{
+    position:absolute;
+    top:20px;
+    right:800px;
+    font-size: 100px;
+}
+
+
+.navigation button{
+    width: 70px;
+    height: 60px;
+    color: rgb(90, 92, 93);
+    background-color: rgb(244, 241, 241);
+    border-radius: 15px;
+    font-size: 70px;
+    border: 2px solid rgb(229, 229, 229);
+    
+  
+
+
+}
+
+
+.fa-heart{
+    color: rgb(150, 26, 26);
+    transform: translate(300px,1px);
+    font-size: 40px;
+    
+}
+
+
+
+.fa-magnifying-glass{
+    color: rgb(0, 0, 0);
+    transform: translate(115px,1px);
+    color: rgb(149, 147, 147);
+    font-size: 40px;
+}
+
+
+.pht{
+height: 1500px;
+width: 2500px;
+
+}
+.container1{
+
+
+    height: 700PX;
+    width: 600px;
+    position: relative;
+    border: 1px solid white;
+    top: 200px;
+
+    
+}
+
+
+p{
+     position: absolute;
+    height: 80px;
+    width: 190px;
+    bottom: 0px;
+    left: 1100px;
+    font-size: 40px;
+    color: white;
+}
+
+.one{
+
+    position: absolute;
+    border: 1px solid black;
+    height: 70px;
+    width: 190px;
+    bottom: 0px;
+    left: 1200px;
+    font-size: 40px;
+    color: black;
+    border-radius: 25px;
+}
+.two{
+position: absolute;
+    border: 1px solid black;
+    height: 70px;
+    width: 190px;
+    bottom: 0px;
+    left: 1430px;
+    font-size: 40px;
+    color: black;
+    border-radius: 25px;
+}
+h6{
+height: 70px;
+width: 180px;
+left: 160px;
+color: black;
+position: relative;
+font-size: 80px;
+top: 150PX;
+
+}
+
+.pht{
+    width: 100%;
+    height: 1900px;
+   
+}
+
+.fi{
+    display: flex;
+    gap: 5px;
+    justify-content: space-evenly;
+}
+
+.shop img{
+    width: 425px;
+    height: 540px;
+   
+}
+
+.lot img{
+    width: 100%;
+    height: 110px;
+     transform: translate(2px,-22px);
+}
+
+.fig img{
+    width: 100%;
+    height: 95px;
+    transform: translate(2px,-142px);
+    
+}
+
+.light{
+    display: grid;
+    grid-template-columns: repeat(8,2fr);
+    justify-items: center;
+
+    
+}
+
+.jump img{
+    width: 150px;
+          transform: translate(1px,-242px);
+}
+
+.foot{
+    display: flex;
+    justify-content:first baseline;
+    gap: 40px;
+   list-style-type: none;
+   margin-top: 100px;
+   font-size: 40px;
+   margin-left: 20px;
+
+
+}
+.mii{
+    width: 98%;
+    background-color: rgb(227, 227, 227);
+}
+
+.pio{
+    transform: translate(1px,-70px);
+}
+
+.ki{
+    font-size: 60px;
+}
+
+.si{
+    font-size: 60px;
+    margin-left: 60px;
+ 
+
+}
+.kp{
+display: grid;
+grid-template-columns: repeat(2,3fr);
+
+}
+.vp{
+height: 1000px;
+width: 2700px;
+
+
+}
+.ri{
+width: 70px;
+    height: 50px;
+    color: rgba(10, 10, 10, 0.952);
+    background-color: rgba(244, 241, 241, 0.959);
+    border-radius: 15px;
+    font-size: 60px;
+    transform: translate(400px,-7px);
+    border: 3px solid rgba(229, 229, 229, 0.977);
+  
+
+}
+.fa-bag-shopping{
+transform: translate(115px,1px);
+    color: rgba(19, 18, 18, 0.904);
+    font-size: 40px;
+    left: 1000px;
+}
+.can{
+    height: 2300px;
+    width: 2600px;
+    top: 350px;
+    position: absolute;
+    font-size: 80px;
+    color:black;
+    left: 900px;
+}
+.oil{
+ height: 2100px;
+    width: 2000px;
+    top: 500px;
+    position: absolute;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    left: 390px;
+
+}
+
+
